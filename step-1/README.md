@@ -8,6 +8,6 @@ A to B: requestDelta(DB-LineUp.json)
 
 B: lockDB()
 
-B: getDelta(DB-LineUp.json) 
+B: getDelta(DB-LineUp.json) -> DB-Delta.json
 
 B to A: sendDelta(DB-Delta.json)

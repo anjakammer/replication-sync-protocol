@@ -4,6 +4,6 @@ A: lockDB()
 
 A to B: requestDelta() -> DB-LineUp.json
 
-B: LockDB()
+B: lockDB()
 
 B to A: getDelta(DB-LineUp.json) -> DB-Delta.json

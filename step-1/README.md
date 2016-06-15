@@ -1,9 +1,9 @@
 #A requests B to synchronize DBs
 
 A: lockDB()
-
-A to B: requestDelta() -> DB-LineUp.json
+A: getDBLineUp() -> DB-LineUp.json
+A to B: requestDelta(DB-LineUp.json)
 
 B: lockDB()
-
-B to A: getDelta(DB-LineUp.json) -> DB-Delta.json
+B: getDelta(DB-LineUp.json) 
+B to A: sendDelta(DB-Delta.json)

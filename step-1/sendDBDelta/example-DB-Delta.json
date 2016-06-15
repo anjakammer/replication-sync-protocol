@@ -1,0 +1,28 @@
+{
+    "DB-Delta": [
+        {
+            "table_A": [
+                {
+                    "id": "1",
+                    "data": "foo",
+                    "is_deleted": "0",
+                    "timestamp": "1476018558"
+                },
+                {
+                    "id": "2",
+                    "data": "bar",
+                    "is_deleted": "0",
+                    "timestamp": "1466019558"
+                }
+            ],
+            "table_b": [
+                {
+                    "id": "1",
+                    "data": "foo",
+                    "is_deleted": "1",
+                    "timestamp": "1466418558"
+                }
+            ]
+        }
+    ]
+}

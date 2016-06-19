@@ -1,6 +1,7 @@
 {
     "DB-ID": "A1C23",
-    "isMaster": "FALSE" ,
+    "isMaster": "FALSE",
+    "isDelta" : "TRUE",
     "tables": [
         {
             "table_b": [

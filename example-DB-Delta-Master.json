@@ -1,5 +1,6 @@
 {
-    "DB-Delta": [
+    "DB-ID": "123",
+    "tables": [
         {
             "table_a": [
                 {

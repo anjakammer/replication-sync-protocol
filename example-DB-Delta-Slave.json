@@ -1,0 +1,13 @@
+{
+    "DB-Delta": [
+        {
+            "table_b": [
+                {
+                    "id": "1",
+                    "data": "updatedfoo",
+                    "timestamp": "1466418558"
+                }
+            ]
+        }
+    ]
+}

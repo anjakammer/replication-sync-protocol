@@ -1,7 +1,7 @@
 {
     "DB-Delta": [
         {
-            "table_A": [
+            "table_a": [
                 {
                     "id": "1",
                     "data": "foo",

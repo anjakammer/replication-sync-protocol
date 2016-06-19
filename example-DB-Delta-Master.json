@@ -24,7 +24,6 @@
                 },
                 {
                     "id": "2",
-                   // "data": "bar", 
                     "is_deleted": "1",
                     "timestamp": "1466418558"
                 }

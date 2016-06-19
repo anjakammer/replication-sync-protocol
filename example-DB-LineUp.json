@@ -1,5 +1,7 @@
 {
-    "DB-LineUp": [
+    "DB-ID": "A1C23",
+    "isMaster": "TRUE" ,
+    "tables": [
         {
             "table_a": [
                 {

@@ -2,8 +2,8 @@ public class Application{
     
     public static void main(String[] args) {
 		ConcreteDBHandler Handler = new ConcreteDBHandler();
-		Handler.dosmth();
-		Handler.getUpdateSequence();
-		Handler.write();
+		Handler.dosmth();           //calls DBHandler
+		Handler.getUpdateSequence();//calls DBHandlerSlave
+		Handler.write();            //calls ConcreteDBHandler
 	}
 }

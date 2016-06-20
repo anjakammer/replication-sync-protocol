@@ -1,1 +1,1 @@
-run Application.class
+run _Application_ instance

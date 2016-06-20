@@ -1,3 +1,6 @@
+/**
+* To be implemented by the using application
+*/
 public class ConcreteDBHandler extends DBHandlerSlave{
 
     public void write(){

@@ -4,5 +4,6 @@ public class Application{
 		ConcreteDBHandler Handler = new ConcreteDBHandler();
 		Handler.dosmth();
 		Handler.write();
+		Handler.dosmthelse();
 	}
 }

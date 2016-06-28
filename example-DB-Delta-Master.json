@@ -1,7 +1,7 @@
 {
     "DB-ID": "A1C23",
     "isMaster": "TRUE",
-    "lastSnycTime" : "1456418558",
+    "lastSyncTime" : "1456418558",
     "tables": [
         {
             "table_a": [

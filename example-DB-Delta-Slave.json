@@ -1,5 +1,7 @@
 {
     "DB-ID": "A1C23",
+    "name": "ProfilName",
+    "name": "DELTA",
     "isMaster": "FALSE",
     "lastSyncTime": "1456418558",
     "tables": [
